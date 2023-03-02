@@ -20,5 +20,7 @@ module.exports = {
     if (configType === 'PRODUCTION') {
       config.base = '/Design-System-Ignite2023/'
     }
+
+    return config
   }
 }
