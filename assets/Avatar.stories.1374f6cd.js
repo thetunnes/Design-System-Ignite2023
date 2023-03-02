@@ -1,0 +1,2 @@
+import{A as t}from"./index.0b03334a.js";import"./index.02bf764a.js";import"./iframe.93f97f94.js";import"./index.a2caea50.js";import"./jsx-runtime.581dcb28.js";const p={title:"Data display/Avatar",component:t,args:{src:"https://github.com/thetunnes.png"},argTypes:{src:{control:{type:"text"}}}},c={},e={args:{src:void 0}},m=["Primary","WithFallback"];export{c as Primary,e as WithFallback,m as __namedExportsOrder,p as default};
+//# sourceMappingURL=Avatar.stories.1374f6cd.js.map

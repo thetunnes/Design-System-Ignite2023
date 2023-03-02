@@ -1,0 +1,2 @@
+import{B as o}from"./index.0b03334a.js";import{j as r,F as t}from"./jsx-runtime.581dcb28.js";import"./index.02bf764a.js";import"./iframe.93f97f94.js";import"./index.a2caea50.js";const m={title:"Surfaces/Box",component:o,args:{children:r(t,{children:r("span",{children:"Styled Element Box"})})},argTypes:{children:{control:{type:null}}}},l={},p=["Primary"];export{l as Primary,p as __namedExportsOrder,m as default};
+//# sourceMappingURL=Box.stories.c2f526ab.js.map
