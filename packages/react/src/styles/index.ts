@@ -8,7 +8,7 @@ import {
   lineHeights,
   radii,
   space,
-} from '@ignite-ui/tokens'
+} from '@tunnes-ds-test/tokens'
 
 export const {
   styled,
