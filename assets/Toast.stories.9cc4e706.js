@@ -1,0 +1,2 @@
+import{d as t}from"./index.1a1e7c98.js";import"./index.30966a14.js";import"./iframe.28f7f95a.js";import"./index.83f31cde.js";import"./jsx-runtime.6f9d9c67.js";const s={title:"Data display/Toast",component:t,args:{list:[{id:1,title:"Agendamento realizado",content:"Quarta-feira, 23 de Outubro \xE0s 16h"}]}},n={},d={args:{list:[{id:1,title:"Agendamento realizado",content:"Quarta-feira, 23 de Outubro \xE0s 16h"}],pos:"top-right"}},p=["Primary","TopRight"];export{n as Primary,d as TopRight,p as __namedExportsOrder,s as default};
+//# sourceMappingURL=Toast.stories.9cc4e706.js.map
